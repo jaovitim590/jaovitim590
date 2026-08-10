@@ -46,8 +46,14 @@ Tenho interesse em desenvolvimento de APIs REST, integração entre frontend e b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaovitim590&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovitim590&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=jaovitim590&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=jaovitim590&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ---
