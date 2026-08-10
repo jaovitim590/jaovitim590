@@ -1,15 +1,59 @@
+# 👋 Olá, eu sou João Vitor Rodrigues
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaovitorrprimo590@gmail.com) 
+### 💻 Desenvolvedor Full Stack Júnior
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaovitim590&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jaovitim590&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaovitim590&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Desenvolvedor Full Stack em formação, com foco em **Backend** e experiência prática em projetos utilizando **Java, Spring Boot, React e TypeScript**.
+
+Tenho interesse em desenvolvimento de APIs REST, integração entre frontend e backend e construção de aplicações completas.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jaovitim590&icon=2&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="www.linkedin.com/in/joao-vitor-primo-30440b41b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://jaovitimportifolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:joaovitorrprimo590@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Tecnologias
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,html,css" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python" />
+</p>
+
+### Banco de Dados & Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaovitim590&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaovitim590&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 📈 Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaovitim590&theme=tokyo-night&hide_border=true" />
+</p>
